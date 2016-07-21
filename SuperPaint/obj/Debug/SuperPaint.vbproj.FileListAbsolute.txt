@@ -1,0 +1,16 @@
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.frmBasicColourSelector.resources
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.Resources.resources
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.frmSuperPaint.resources
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.vbproj.GenerateResource.Cache
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.xml
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\bin\Debug\SuperPaint.exe.config
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\bin\Debug\SuperPaint.exe
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\bin\Debug\SuperPaint.pdb
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\bin\Debug\SuperPaint.xml
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.exe
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.pdb
+C:\Users\Jeff\Documents\Visual Studio 2015\Projects\SuperPaint\SuperPaint\obj\Debug\SuperPaint.vbprojResolveAssemblyReference.cache
+G:\SuperPaint\SuperPaint\bin\Debug\SuperPaint.exe.config
+G:\SuperPaint\SuperPaint\obj\Debug\Interop.AcroPDFLib.dll
+G:\SuperPaint\SuperPaint\obj\Debug\AxInterop.AcroPDFLib.dll
+G:\SuperPaint\SuperPaint\obj\Debug\SuperPaint.vbproj.ResolveComReference.cache

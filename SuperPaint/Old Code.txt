@@ -1,0 +1,55 @@
+﻿'Starting and ending points of drawn object
+    Private initialXPoint, initialYPoint As Point 'Starting Points For Drawn Objects
+    Private finalXPoint, finalYPoint As Short 'Ending points For Drawn Objects
+
+    'Create A New Image Object With Width Of 1500 And Height Of 1200.
+    'The Drawn Shapes Will Become Part Of This Image Object
+    Private drawingImage As New Bitmap(1500, 1200)
+    'Declare The Graphics Object To Draw Onto
+
+    Public graphicsCanvas As Graphics = Graphics.FromImage(drawingImage)
+
+    Private mouseUpDown As Boolean
+
+    Private shapeWidth, shapeHeight, shapeX, shapeY As Integer
+    Private canvasHeight As Integer = Height
+    Private canvasWidth As Integer = Width
+
+    'Private Sub frmDrawingCanvas_MouseDown(sender As Object, e As MouseEventArgs) Handles Me.MouseDown
+    '    mouseUpDown = True
+    '    'trkAdjustmentValue = me.trkSizeAdjustment.Value
+    '    initialXPoint = New Point(MousePosition.X) 'Store X variable of button press
+    '    initialYPoint = New Point(MousePosition.Y) 'Store X variable of button press
+    'End Sub
+
+    'Private Sub frmDrawingCanvas_MouseUp(sender As Object, e As MouseEventArgs) Handles Me.MouseUp
+    '    Dim colourPen As New Pen(Colour, 10)
+    '    Dim colourBrush As New SolidBrush(Colour)
+
+    '    mouseUpDown = False
+
+    '    If blnCircleClicked Then
+    '        shapeSpecs(e)
+    '        graphicsCanvas.DrawEllipse(colourPen, shapeX, shapeY, shapeWidth, shapeHeight)
+    '    End If
+
+
+    '    Me.picDrawingCanvas.Image = drawingImage
+    'End Sub
+
+    'Public Sub shapeSpecs(ByVal e As MouseEventArgs)
+    '    If e. - initialXPoint < 0 Then
+    '        shapeWidth = initialX - e.X
+    '        shapeX = e.X
+    '    Else
+    '        shapeWidth = e.X - initialX
+    '        shapeX = initialX
+    '    End If
+    '    If e.Y - initialY < 0 Then
+    '        shapeHeight = initialY - e.Y
+    '        shapeY = e.Y
+    '    Else
+    '        shapeHeight = e.Y - initialY
+    '        shapeY = initialY
+    '    End If
+    'End Sub
